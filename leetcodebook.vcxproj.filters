@@ -165,5 +165,8 @@
     <ClCompile Include="50.八.回溯-衣橱整理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="51.八.回溯-二叉树中和为目标值的路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
