@@ -168,5 +168,8 @@
     <ClCompile Include="51.八.回溯-二叉树中和为目标值的路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="52.八.回溯-套餐内商品的排列顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
