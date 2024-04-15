@@ -171,5 +171,23 @@
     <ClCompile Include="52.八.回溯-套餐内商品的排列顺序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="53.九.动态规划-斐波那契数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54.九.动态规划-跳跃训练.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55.九.动态规划-连续天数的最高销售额.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56.九.动态规划-买卖芯片的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57.九.动态规划-珠宝的最高价值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58.九.动态规划-解密数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
