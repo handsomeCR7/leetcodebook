@@ -189,5 +189,11 @@
     <ClCompile Include="58.九.动态规划-解密数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="59.九.动态规划-招式拆解 I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60.九.动态规划-丑数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
