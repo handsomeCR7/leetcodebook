@@ -225,5 +225,20 @@
     <ClCompile Include="70.十一.位运算-训练计划 VI.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="71.十二.数学-库存管理 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72.十二.数学-查找总价格为目标值的两个商品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73.十二.数学-数字 1 的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74.十二.数学-找到第 k 位数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75.十二.数学-破冰游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -10,8 +10,7 @@ public:
         for (int action : actions) {
             t = (~Q1) & Q0 & action | Q1 & (~Q0) & (~action);
             Q0 = (~Q1) & (~Q0) & action | (~Q1) & Q0 & (~action);
-            Q1 = t;
-            
+            Q1 = t;  
         }
         return Q0;
     }
